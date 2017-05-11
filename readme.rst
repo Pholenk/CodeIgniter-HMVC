@@ -30,6 +30,6 @@ issues, as well as missing features.
 ************
 Installation
 ************
-Default CodeIgniter installation: https://codeigniter.com/user_guide/installation/index.html
-Via Composer : composer create-project pholenk/codeigniter-hmvc
+- Default CodeIgniter installation: https://codeigniter.com/user_guide/installation/index.html
+- Via Composer : composer create-project pholenk/codeigniter-hmvc
 
